@@ -1,5 +1,5 @@
 # Python_Diwali_Sales_Analysis
-# This project involves a comprehensive end-to-end analysis of Python-based Diwali sales data, conducted using Jupyter Notebook.
+  This project involves a comprehensive end-to-end analysis of Python-based Diwali sales data, conducted using Jupyter Notebook.
 # Objective
   - Improve customer experience by analyzing sales data
   - Increase revenue
